@@ -19,5 +19,5 @@ The model gives total vaccinations :
 
 At last, the model give the Average vaccination rate of a country  :
 
-![Vaccine Usage Distribution](https://github.com/Yagna24/Vaccine/blob/main/vaccine_img/ice_screenshot_20210210-101916.png?raw=true)
+![Vaccine Usage Distribution](https://github.com/Yagna24/Vaccine/blob/main/vaccine_img/ice_screenshot_20210210-103353.png?raw=true)
 
