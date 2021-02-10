@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-file_train = pd.read_csv(r'C:\Users\Yagna\Desktop\yagnaaa\projects\vaccination\train.csv', error_bad_lines=False)
+file_train = pd.read_csv('train.csv', error_bad_lines=False)
 
 file_train = file_train[file_train["total_vaccinations"].notna()]
 vac_india = file_train[file_train["country"].str.contains("India")]
