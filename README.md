@@ -9,7 +9,9 @@ Using the data given in the train.csv file, the model gives vaccine usage distri
 
 ![Vaccine Usage Distribution](https://github.com/Yagna24/Vaccine/blob/main/vaccine_img/ice_screenshot_20210210-095813.png?raw=true)
 
-The model allows to see daily raw vaccinations of a country : 
+The model allows to see daily raw vaccinations of a country.
+
+
 The graphs below gives data about India  : 
 
 ![Vaccine Usage Distribution](https://github.com/Yagna24/Vaccine/blob/main/vaccine_img/ice_screenshot_20210210-095650.png?raw=true)
