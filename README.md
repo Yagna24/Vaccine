@@ -16,7 +16,7 @@ The graphs below gives data about India  :
 
 ![Vaccine Usage Distribution](https://github.com/Yagna24/Vaccine/blob/main/vaccine_img/ice_screenshot_20210210-095650.png?raw=true)
 
-The model gives total vaccinations : 
+This model gives total vaccinations : 
 
 ![Vaccine Usage Distribution](https://github.com/Yagna24/Vaccine/blob/main/vaccine_img/ice_screenshot_20210210-095641.png?raw=true)
 
